@@ -2,26 +2,27 @@
 Submission & contacts (LSQCC)
 #############################
 
-**Submission**
+**Acceptance**
 
-`Submission for SC25 workshops at Linklings <https://submissions.supercomputing.org/>`_
+The 2nd Annual Workshop on Large-Scale Quantum-Classical Computing (LSQCC)
+has been accepted as a full-day workshop at SC26. No proceedings are
+planned, and all sessions are by invitation.
 
-Deadline: 2025-10-16
+**Organizing committee**
 
-
-**Steering committee**
-
-* `Antonio Córcoles <https://scholar.google.com/citations?user=_nYGfnIAAAAJ&hl=en&oi=ao>`_, IBM
-* `Jay Gambetta <https://scholar.google.com/citations?user=690ygNAAAAAJ&hl=en&oi=ao>`_, IBM
-* `Max Rossmannek <https://scholar.google.com/citations?user=haAGoFsAAAAJ&hl=en>`_, IBM
-* `Iskandar Sitdikov <https://scholar.google.com/citations?user=isCe0IgAAAAJ&hl=en>`_, IBM
+* `Antonio Córcoles <https://scholar.google.com/citations?user=_nYGfnIAAAAJ&hl=en&oi=ao>`_, IBM Quantum — General Chair
+* Hiroshi Horii, IBM Quantum — Co-Chair
+* Mitsuhisa Sato, Juntendo University / RIKEN Center for Computational Science (R-CCS)
+* Amir Shehata, Oak Ridge National Laboratory (ORNL)
 
 **Venue**
 
-`SC25: The International Conference for High Performance
-Computing, Networking, Storage, and Analysis <https://sc25.supercomputing.org/>`_ 
+`SC26: The International Conference for High Performance
+Computing, Networking, Storage, and Analysis <https://sc26.supercomputing.org/>`_
 
-St. Louis, MO - NOV 16–21
+Chicago, IL - NOV 15–20, 2026
+
+Workshop day: Monday, 16 November 2026, 9:00am – 5:30pm CST, Room W179a.
 
 **Contacts**
 
