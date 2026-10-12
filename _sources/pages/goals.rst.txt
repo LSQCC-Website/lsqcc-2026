@@ -2,10 +2,36 @@
 Workshop goals (LSQCC)
 ######################
 
-This workshop aims to shift the focus from early-stage quantum-HPC integration to **achieving quantum advantage through scalable, hybrid quantum-classical computing**. 
-Attendees will gain insight into how quantum processing units (QPUs) can be effectively integrated within heterogeneous high-performance computing (HPC) environments, with a strong emphasis on real-world applications, algorithmic advancements, and hardware scalability. 
-**This workshop will showcase concrete results, industry-led solutions, and the latest research on quantum-centric supercomputing (QCSC)**.
+**Relevance**
 
-A key goal is to bridge industry and academia, providing a state-of-the-art view of QCSC implementations through real- world case studies and best practices for integrating quantum computing into existing HPC workflows. The workshop will also highlight scalability in quantum hardware, demonstrating tangible pathways for expanding QPU capabilities, including advancements in couplers and system-wide performance improvements. Additionally, it will focus on hybrid quantum-classical algorithms, presenting evidence of their impact within QCSC architectures and introducing benchmarking methodologies to evaluate quantum advantage in practical HPC applications.
+Quantum computing is rapidly progressing and increasingly considered
+alongside high-performance computing (HPC) and artificial intelligence (AI)
+for tackling complex scientific workloads. For the SC community,
+understanding practical ways to incorporate quantum computation within
+larger computational ecosystems is becoming essential for planning
+resources, developing software stacks, and identifying impactful application
+areas. This workshop is relevant to researchers and practitioners who seek
+concrete methods, shared experiences, and realistic assessments of near-term
+opportunities in hybrid quantum-HPC-AI workflows.
 
-To ensure lasting impact, the workshop will provide practical artifacts, including tools, frameworks, and methodologies for QCSC development, with findings consolidated into a whitepaper or best-practices guide to support ongoing industry and research efforts.
+**Goals**
+
+The workshop aims to:
+
+#. **Showcase recent advances in quantum computing** that are directly
+   applicable to scientific and engineering problems, with emphasis on
+   methods that interface naturally with HPC and AI when beneficial.
+#. **Share practical experiences** from facilities and research groups on
+   software and system integration, workflow design, and operational
+   considerations for running quantum workloads alongside classical
+   resources.
+#. **Discuss performance and scaling behavior** in hybrid settings,
+   including evaluation practices and application-driven metrics suitable
+   for early-stage deployments.
+#. **Identify near-term opportunities and open challenges** for
+   incorporating quantum computation into existing HPC/AI pipelines,
+   highlighting paths that can accelerate scientific impact without
+   assuming specific architectures or vendor-specific concepts.
+#. **Foster collaboration across disciplines** by connecting algorithm
+   developers, HPC practitioners, and quantum computing researchers to
+   catalyze reproducible, transferable, and extensible hybrid workflows.

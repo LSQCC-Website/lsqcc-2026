@@ -5,42 +5,60 @@ Workshop scope (LSQCC)
 
 **Introduction**
 
-Quantum computing has the potential to elevate heterogeneous high-performance computing (HPC) to new
-levels, helping to address some of the main computational challenges currently faced by the industry, and enabling solutions to problems that are currently intractable for purely classical supercomputers. This paradigm shift necessitates the integration of quantum processing units (QPUs) alongside traditional computing architectures, such as CPUs, GPUs, and other specialized accelerators (e.g., AIUs). The emerging quantum-centric supercomputing (QCSC) model represents a crucial step toward achieving quantum advantage: the point at which quantum computers become the best solution for solving a given computational problem. Reaching quantum advantage will require collaboration between multiple industries to align efforts in hardware and software integration.
+As quantum computing continues to advance, the ability to integrate it with
+high-performance computing (HPC) and artificial intelligence (AI) is becoming
+increasingly important for enabling practical hybrid computational workflows.
+Such combined approaches are beginning to support scientific applications in
+physics, chemistry, materials, and optimization, where quantum algorithms can
+complement large-scale classical simulation and AI-based techniques.
 
-This workshop will provide a forum for researchers, industry professionals, and HPC practitioners to discuss and explore the latest developments in QCSC. We will examine state-of-the-art solutions used in heterogeneous computing today and investigate how QPUs can be seamlessly incorporated into existing HPC frameworks. The workshop will highlight how hybrid quantum-classical algorithms can leverage these architectures and pave the way for practical quantum advantage.
+The 2nd Annual Workshop on Large-Scale Quantum-Classical Computing (LSQCC)
+provides a venue for presenting and discussing recent progress in quantum
+algorithms, software and system integration, and early-stage hybrid workflows
+that incorporate HPC and AI components when beneficial. The workshop aims to
+bring together researchers and practitioners to discuss technical challenges,
+share practical experiences from both quantum and classical computing
+environments, and explore near-term opportunities for leveraging quantum
+computing within broader computational ecosystems.
 
-**Background and Motivation**
+**Topics of Interest**
 
-As quantum computing matures, integrating QPUs into high-performance computing environments has become a key challenge. While traditional HPC systems have well-established ecosystems—including optimized libraries, job schedulers, and performance monitoring tools—adapting these tools to accommodate quantum-classical hybrid workloads is needed for the next evolution of HPC to take place. The integration must ensure minimal disruption to existing infrastructures while maximizing performance gains.
-Several industries, including pharmaceuticals, materials science, finance, and AI, are beginning to explore quantum computing’s potential. However, the practical integration of these dissimilar resources requires efficient co-processing between quantum and classical hardware, necessitating advances in:
+This workshop welcomes contributions related to quantum computing and its
+integration with high-performance computing (HPC) and artificial intelligence
+(AI). Topics of interest include, but are not limited to:
 
-* **Hardware integration**: developing interfaces that allow QPUs to efficiently communicate with CPUs/GPUs. 
-* **Software compatibility**: ensuring that quantum software stacks interact seamlessly with HPC middleware and job schedulers.
-* **Algorithm optimization**: designing hybrid quantum-classical algorithms that take full advantage of QCSC architectures. This workshop will bring together experts from quantum computing, classical HPC, and software development to address these pressing issues.
-    
-**Key Topics and Themes**
-
-This workshop will cover several key topics related to quantum-centric supercomputing, including:
-
-#. **Heterogeneous HPC Architectures**:
-    * Integration of QPUs into multi-accelerator systems (CPUs, GPUs, AIUs, etc.).
-    * Hardware and network requirements for efficient quantum-classical co-processing. 
-#. **Software and Middleware for QCSC**:
-    * Extending existing HPC tools (e.g., MPI, Slurm) to support quantum workloads.
-    * Compiler and runtime considerations for hybrid quantum-classical execution. 
-#. **Hybrid Quantum-Classical Algorithms and Applications**:
-    * QCSC-enabled simulation techniques in physics, chemistry, and AI.
-    * Benchmarks for evaluating hybrid workloads in QCSC environments.
-#. **Industry and Research Collaboration**:
-    * Case studies of real-world QCSC implementations.
-    * Standardization efforts for cross-platform quantum-HPC interoperability.
+* **Quantum algorithms and methods for scientific computing**, including
+  physics, chemistry, materials, and optimization.
+* **Hybrid computational workflows** that combine quantum computation with
+  HPC or AI components.
+* **Software, middleware, and system integration techniques** that enable
+  effective use of quantum computing in larger computational pipelines.
+* **Experiences and case studies** from HPC centers, quantum hardware
+  platforms, and research groups developing or deploying hybrid
+  quantum-classical workflows.
+* **Performance evaluation, algorithmic scaling behavior, and practical
+  considerations** for running quantum workloads alongside classical and
+  AI-based methods.
 
 **Target Audience**
 
-This workshop is designed for:
+This workshop is intended for researchers and practitioners interested in the
+development and application of quantum computing within broader
+computational workflows. The target audience includes:
 
-* HPC and quantum computing researchers interested in co-designing quantum-classical architectures.
-* Industry professionals exploring practical quantum applications in HPC.
-* Software developers and system architects working on middleware and integration tools.
-* Students and early-career professionals looking to understand the emerging QCSC model.
+* Scientists and researchers working on quantum algorithms for physics,
+  chemistry, materials, optimization, and related domains.
+* HPC practitioners and system developers exploring how quantum computation
+  can be integrated with large-scale classical resources.
+* Researchers studying hybrid workflows that incorporate HPC or AI components
+  to support or complement quantum computation.
+* Software developers building tools, runtime systems, or middleware for
+  quantum or hybrid quantum-classical workloads.
+* Members of HPC facilities, national laboratories, and research institutions
+  evaluating or deploying quantum computing capabilities.
+* Graduate students and early-career researchers seeking to understand the
+  practical landscape of quantum-HPC-AI integration.
+
+The workshop is designed to be accessible to participants with backgrounds in
+quantum computing or classical high-performance computing, with no
+assumption of deep expertise across all areas.
